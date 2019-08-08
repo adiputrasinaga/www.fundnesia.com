@@ -37,8 +37,8 @@ include $_SESSION['lang'] . '.php';
   <meta name="description" content="Platform digital yang bertujuan untuk membantu petani dan peternak lokal Indonesia"/>
   <meta content='fundnesia,investasi pertanian,peternakan,permodalan pertanian, crowdfunding, penggalan dana pertanian, sumatera utara, platform digital' name='keywords'/>
   <title><?php echo $lang_judul; ?></title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="tether/tether.min.css">
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="bootstrap/css/bootstrap-grid.min.css">
@@ -431,7 +431,7 @@ include $_SESSION['lang'] . '.php';
 </section>
 
 
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="web/assets/jquery/jquery.min.js"></script>
   <script src="popper/popper.min.js"></script>
   <script src="tether/tether.min.js"></script>
   <script src="bootstrap/js/bootstrap.min.js"></script>
