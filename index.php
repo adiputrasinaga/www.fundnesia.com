@@ -31,7 +31,7 @@ include $_SESSION['lang'] . '.php';
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.6.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/logo-single.png" type="image/x-icon">
+  <link rel="shortcut icon" href="images/logo-single.png" type="image/x-icon">
   <meta name="msvalidate.01" content="84FCAE77DF11BDC231E77E26C39B856D" />
   <meta name="google-site-verification" content="YlbVPRPLIN3Rd4yH4u1jZ6u8TGGy8dpfMrumU-gwQ4o" />
   <meta name="description" content="Platform digital yang bertujuan untuk membantu petani dan peternak lokal Indonesia"/>
@@ -70,7 +70,7 @@ include $_SESSION['lang'] . '.php';
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="https://fundnesia.com">
-                        <img src="assets/images/fundnesia-logo-5-960x560.png" alt="Fundnesia" title="" style="height: 4.1rem;">
+                        <img src="images/fundnesia-logo-5-960x560.png" alt="Fundnesia" title="" style="height: 4.1rem;">
                     </a>
                 </span>
                 
