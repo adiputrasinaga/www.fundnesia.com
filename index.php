@@ -39,15 +39,15 @@ include $_SESSION['lang'] . '.php';
   <title><?php echo $lang_judul; ?></title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/animatecss/animate.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="tether/tether.min.css">
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="animatecss/animate.min.css">
+  <link rel="stylesheet" href="socicon/css/styles.css">
+  <link rel="stylesheet" href="dropdown/css/style.css">
+  <link rel="stylesheet" href="theme/css/style.css">
+  <link rel="stylesheet" href="mobirise/css/mbr-additional.css" type="text/css">
   
   
   
@@ -432,18 +432,18 @@ include $_SESSION['lang'] . '.php';
 
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/dropdown/js/script.min.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
-  <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
-  <script src="assets/theme/js/script.js"></script>
-  <script src="assets/formoid/formoid.min.js"></script>
+  <script src="popper/popper.min.js"></script>
+  <script src="tether/tether.min.js"></script>
+  <script src="bootstrap/js/bootstrap.min.js"></script>
+  <script src="parallax/jarallax.min.js"></script>
+  <script src="dropdown/js/script.min.js"></script>
+  <script src="touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="mbr-clients-slider/mbr-clients-slider.js"></script>
+  <script src="smoothscroll/smooth-scroll.js"></script>
+  <script src="viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="theme/js/script.js"></script>
+  <script src="formoid/formoid.min.js"></script>
   
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i></i></a></div>
