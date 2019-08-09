@@ -88,7 +88,7 @@ include $_SESSION['lang'] . '.php';
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.ws/m">drag and drop site maker</a></section><section class="header9 cid-qK7kzLeS2Z mbr-fullscreen mbr-parallax-background" id="header9-1y">
+<section class="engine"><a href="https://mobirise.ws/p">open source website creator</a></section><section class="header9 cid-qK7kzLeS2Z mbr-fullscreen mbr-parallax-background" id="header9-1y">
 
     
 
@@ -98,8 +98,9 @@ include $_SESSION['lang'] . '.php';
     <div class="container">
         <div class="media-container-column mbr-white col-md-8">
             
-            <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-1"><strong><span style="font-style: normal;"><br></span></strong><strong><span style="font-style: normal;font-size:52px"><?php echo $lang_potensi; ?></span>&nbsp;<span style="font-style: normal; font-size:52px"><?php echo $lang_dan; ?></span><span style="font-style: normal; font-size:52px">&nbsp;<?php echo $lang_kolab; ?></span></strong></h3>
-            <p class="mbr-text align-left pb-3 mbr-fonts-style display-5"><?php echo $lang_tag; ?></p>
+            <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-1"><strong><span style="font-style: normal;"><br></span></strong><strong><span style="font-style: normal;">Potensi</span>&nbsp;<span style="font-style: normal;">dan</span><span style="font-style: normal;">&nbsp;Kolaborasi</span></strong></h3>
+            <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Jadilah bagian dari perbaikan kualitas hidup petani melalui pembiayaan dan kolaborasi bersama.
+            </p>
             
         </div>
     </div>
@@ -110,6 +111,7 @@ include $_SESSION['lang'] . '.php';
         </a>
     </div>
 </section>
+
 
 <section class="mbr-section article content10 cid-qJTmK0hXYr" id="tentang">
     
